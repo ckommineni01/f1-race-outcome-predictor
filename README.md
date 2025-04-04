@@ -12,7 +12,7 @@ This project is a data-driven analysis and prediction system for Formula 1 races
 
 | PostgreSQL Query | Machine Learning Model |
 |------------------|------------------------|
-| ![SQL Query](images/WhatsApp%20Image%202025-04-04%20at%2011.33.27_50f39adc.jpg) | ![ML Model](images/WhatsApp%20Image%202025-04-04%20at%2011.33.28_a612310d.jpg) |
+| ![SQL Query](images/WhatsApp%20Image%202025-04-04%20at%2011.33.27_50f39adc.jpg) | ![ML Model](images/accuracy.jpg) |
 
 ## 📊 Features
 
