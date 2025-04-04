@@ -4,15 +4,7 @@ This project is a data-driven analysis and prediction system for Formula 1 races
 
 🚀 **Live App**: [Formula 1 Predictor on Streamlit](https://formula-1-race-result-predictor01.streamlit.app/)
 
-## 📸 Project Snapshots
 
-| Driver Data | Race Results |
-|-------------|---------------|
-| ![Driver Data](images/dataoverview.jpg) | ![Race Results](images/WhatsApp%20Image%202025-04-04%20at%2011.33.27_43d41ddd.jpg) |
-
-| PostgreSQL Query | Machine Learning Model |
-|------------------|------------------------|
-| ![SQL Query](images/WhatsApp%20Image%202025-04-04%20at%2011.33.27_50f39adc.jpg) | ![ML Model](images/accuracy.jpg) |
 
 ## 📊 Features
 
